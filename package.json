@@ -1,0 +1,24 @@
+{
+  "name": "react-native-wayne-checkboxlist",
+  "version": "1.0.0",
+  "description": "react-native-wayne-checkboxlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayne214/react-native-wayne-checkboxlist.git"
+  },
+  "keywords": [
+    "react-native",
+    "listview",
+    "checkboxlist"
+  ],
+  "author": "wayne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wayne214/react-native-wayne-checkboxlist/issues"
+  },
+  "homepage": "https://github.com/wayne214/react-native-wayne-checkboxlist#readme"
+}
