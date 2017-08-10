@@ -52,4 +52,4 @@ disabled - bool if set to true component is disabled and can't be interacted wit
 
 截图
 
-https://github.com/wayne214/react-native-wayne-checkboxlist/checkboxlist.png
+https://github.com/wayne214/react-native-wayne-checkboxlist/blob/master/checkboxlist.png
