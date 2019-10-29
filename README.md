@@ -2,11 +2,11 @@
 React-native版单多选的listview，适配IOS和Android
 这是采用的ES6新语法写的,此组件基于react-native-checkoutbox
 
-##安装
+## 安装
 ```sh
 npm install react-native-wayne-checkboxlist --save
 ```
-##使用
+## 使用
 
 这里是组件使用的概述。
 
@@ -14,7 +14,7 @@ npm install react-native-wayne-checkboxlist --save
 import CheckboxList from 'react-native-wayne-checkboxlist'
 ```
 
-##使用示例1
+## 使用示例1
 
 ```jsx
 <CheckboxList
@@ -30,7 +30,7 @@ import CheckboxList from 'react-native-wayne-checkboxlist'
 />
 ```
 
-##属性
+## 属性
 
 * `style - {}` custom style of the list
 * `optionStyle - {}` custom style of the option element
@@ -44,6 +44,6 @@ import CheckboxList from 'react-native-wayne-checkboxlist'
 * `renderRow - function(option)` should return a option view
 * `disabled - bool` if set to true component is disabled and can't be interacted with
 
-##截图
+## 截图
 
 ![example](https://github.com/wayne214/react-native-wayne-checkboxlist/blob/master/checkboxlist.png)
